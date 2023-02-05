@@ -9,7 +9,16 @@ uYou+ is the iOS version of the popular Youtube Vanced for android (no longer ma
 
 This installation guide is a re-formatted and simplified version of [the official guide here](https://github.com/qnblackcat/uYouPlus/wiki/Installation)
 
-This guide will use sideloading through the AltStore method.
+This guide will use sideloading through TrollStore or AltStore.
+
+# Install TrollStore
+
+All of the methods below require iOS/iPadOS 14.0—15.4.1, the 15.5 betas, or the 15.6 betas.
+
+## ♛ Devices released before 2018
+
+### iOS 14.0—14.8.1
+
 
 # Install AltStore
 
